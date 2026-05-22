@@ -10,6 +10,7 @@ See the system ingest financial reports and answer questions in real-time.
 
 ### Watch the Demo
 * **Video Walkthrough:** 📥 **[Click here to play `rag-api-demo.mov`](./rag-api-demo.mov)**
+* Please download the video file to play if it doesn't play in the browser.
 
 ## 🛠️ Frameworks Used
 
