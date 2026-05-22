@@ -48,7 +48,7 @@ Place any `.txt` or `.pdf` stock reports, financial statements, or guidelines in
 ### 4. Run the API Server
 Start the development server using Uvicorn:
 ```bash
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 ---
