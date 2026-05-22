@@ -1,0 +1,29 @@
+# --- Python / Environment ---
+.env
+.venv/
+env/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# --- Project Specific ---
+# If your financial data (aapl.txt) is private/internal, uncomment the next line:
+# *.txt
+
+# --- Logs ---
+*.log
+logs/
