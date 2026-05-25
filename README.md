@@ -1,6 +1,6 @@
 # FinQuant RAG API 🚀
 
-A lightweight, agentic Retrieval-Augmented Generation (RAG) app designed to securely query financial reports and documents using natural language. It implements an intelligent agent workflow that forces reliance on local vector database contexts to ensure highly relevant, data-grounded responses.
+A lightweight, agentic Retrieval-Augmented Generation (RAG) api designed to securely query financial reports and documents using natural language. It implements an intelligent agent workflow that forces reliance on local vector database contexts to ensure highly relevant, data-grounded responses.
 
 ---
 
